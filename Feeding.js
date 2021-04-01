@@ -1,4 +1,4 @@
-class Food{
+class feed{
     constructor(){}   
 
     display(){
